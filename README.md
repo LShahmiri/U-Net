@@ -54,8 +54,7 @@ train_id/
  │    └── train_id.png
  └── masks/
       ├── mask1.png
-      ├── mask2.png
-      └── ...
+     
 Test data (/test-path/)
 
 Each test sample folder contains only an image:
