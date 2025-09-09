@@ -44,8 +44,6 @@ Each sample is in its own folder:
 
 ## 🛠 Requirements
 Install dependencies via pip:
-
-```bash
 pip install tensorflow numpy scikit-image matplotlib tqdm
 📊 Dataset Format
 Training data (/mask-trin-path/)
